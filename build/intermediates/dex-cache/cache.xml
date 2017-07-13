@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shawnezhaghi/AndroidStudioProjects/PayworkMPayment/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bac88ed4fbae9f4f9a3ea30f415c58465995df65">
+        <dex dex="/Users/shawnezhaghi/AndroidStudioProjects/PayworkMPayment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f9fe835e144ae69a03f671d21932fdb763205935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shawnezhaghi/AndroidStudioProjects/PayworkMPayment/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shawnezhaghi/AndroidStudioProjects/PayworkMPayment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a1aede5daf5360d6ea0e2e91a1ed736d68c5f8d4/classes.dex" />
+    </item>
+
+</items>
